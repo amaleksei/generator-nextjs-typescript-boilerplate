@@ -71,7 +71,9 @@ module.exports = class extends Generator {
     this.fs.copy(this.templatePath("styles"), this.destinationPath("styles"));
   }
 
-  install() {
-    this.installDependencies();
+  end() {
+    this.log(" ");
+    this.log("Finished generating!");
+    this.log(" ");
   }
 };
