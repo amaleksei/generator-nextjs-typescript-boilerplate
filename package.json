@@ -1,6 +1,6 @@
 {
   "name": "generator-nextjs-typescript-boilerplate",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generates a scaffolding for a front-end workflow with NextJS, Typescript, Eslint and Prettier",
   "homepage": "https://github.com/amaleksei/generator-nextjs-typescript-boilerplate.git",
   "author": {
